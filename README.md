@@ -1,0 +1,7 @@
+- 👋 Hi, I’m @exfurr-bash
+- 👀 I’m interested in bash
+- 🌱 I’m currently learning bash
+- 💞️ I’m looking to collaborate on bash
+- 📫 How to reach me discord:exfurr
+- 😄 Pronouns: any
+- ⚡ Fun fact: bash is not python

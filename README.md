@@ -15,7 +15,6 @@ Seja bem-vindo ao meu cantinho no GitHub! Aqui você encontra um pouco sobre mim
 ## Minhas Estatísticas 💻📊
 ![Exfurr Stats](https://github-readme-stats.vercel.app/api?username=exfurr&show_icons=true&count_private=true&hide_title=true&hide=prs&theme=radical)
 
-- [**Projeto GitHub Stats**](https://github.com/exfurr/github-stats) - Mostrando as estatísticas de uma maneira única! 💡
 
 ## Meus Skills 🚀
 - **Backend**: Python, Node.js, Express, Flask

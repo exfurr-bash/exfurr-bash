@@ -1,35 +1,24 @@
-# Olá, Mundo! Eu sou o Exfurr! 👾✨
+# Olá, eu sou o Exfurr
 
-Seja bem-vindo ao meu cantinho no GitHub! Aqui você encontra meus scripts, projetos de automação e toda a minha jornada no mundo Open Source. 💻🦊
+Bem-vindo ao meu GitHub. Este é o espaço onde guardo meus scripts, automações e experimentos em código. 
 
-## Quem sou eu? 😎
-- 🐍 **Desenvolvedor Python** focado em automação e backend.
-- 🐧 **Amante de Linux** e entusiasta do terminal.
-- 🤖 **AI-Assisted**: Todos os meus projetos são criados com o apoio de IA.
-- 🦊 **Furry** | 🎮 **Gamer Casual**.
+## Sobre mim
+* **Foco**: Desenvolvimento com Python e scripts em Bash.
+* **Ambiente**: Usuário de Linux e entusiasta do terminal.
+* **Uso de IA**: Desenvolvo meus projetos com o suporte de Inteligência Artificial. Uso ferramentas generativas por diversão e para acelerar os testes de lógica e código.
+* **Pessoal**: Furry e gamer casual.
 
-## No meu terminal você encontra 🛠️
-- **Linguagens**: Python & Bash (meu "pão com manteiga" do dia a dia).
-- **Ambiente**: Linux (distros, customizações e shell scripting).
-- **Ferramentas**: IA generativa como parceira de código e lógica.
+## O que você encontra aqui
+* **Automações**: Scripts criados para resolver problemas repetitivos (mesmo que eu demore horas para automatizar algo de 5 minutos).
+* **Projetos com IA**: Testes, refatorações e lógicas construídas em parceria com modelos de linguagem.
+* **Backend básico**: Estruturas simples e funcionais por trás das cortinas.
 
-## 🤖 Meu Fluxo de Trabalho
-Acredito na tecnologia como aceleradora. Por isso, **todos os meus projetos contam com o suporte de Inteligência Artificial** para:
-* Refatoração e otimização de código.
-* Brainstorming de lógica em Python e Bash.
-* Documentação e automação de processos.
+## Estatísticas
 
-## Minhas Estatísticas 💻📊
-![Exfurr Stats](https://github-readme-stats.vercel.app/api?username=exfurr&show_icons=true&count_private=true&hide_title=true&hide=prs&theme=radical)
+![Exfurr Stats](https://github-readme-stats.vercel.app/api?username=exfurr-bash&show_icons=true&count_private=true&hide_title=true&hide=prs&theme=radical)
 
-## O que eu curto fazer? 🚀
-1. **Scripts & Automação**: Se eu tiver que fazer algo duas vezes, eu prefiro passar 3 horas automatizando (com uma ajudinha da IA).
-2. **Cultura Open Source**: Explorando projetos e aprendendo com a comunidade Linux.
-3. **Backend**: Construindo a lógica que faz as coisas funcionarem por trás das cortinas.
-
-## Badges e Status 💪
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=exfurr&layout=compact&langs_count=5&theme=radical)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=exfurr-bash&layout=compact&langs_count=5&theme=radical)
 
 ---
 
-**Vamos trocar uma ideia ou codar algo juntos?** 😎✨
+Se quiser trocar uma ideia sobre Linux, Python ou automação, sinta-se à vontade.
